@@ -290,5 +290,24 @@ a {
 .upper {
   text-transform: uppercase;
 }
-
 /*end gallary cards*/
+/*  start sponsor section */
+.ba-sponsor {
+  padding: 86px 0 122px 0;
+  text-align: center;
+}
+.ba-sponsor-title {
+  font-size: 3.875rem;
+  color: #444444;
+  margin-bottom: 87px;
+}
+.ba-sponsor-image {
+  margin-right: 94px;
+}
+
+
+
+
+
+
+/* end sponsor section  */
