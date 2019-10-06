@@ -74,8 +74,8 @@ a {
   height: 50px;
   line-height: 50px;
   padding: 0 21px;
-  color: #fff;
   text-decoration: none;
+  color: #fff;
   transition: .4s;  
 }
 .ba-btn:hover,
